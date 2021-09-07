@@ -8,7 +8,8 @@ Web application using PHP that interfaces with MySQL and Apache
 ![image](https://user-images.githubusercontent.com/57778547/132414144-5e09ff22-a533-489e-bfb1-05951c6a5076.png)
 ![image](https://user-images.githubusercontent.com/57778547/132414196-11345cf3-a52d-491a-bb5d-61564dc86096.png)
 ![image](https://user-images.githubusercontent.com/57778547/132414218-0ab4926a-5214-4d6e-8eb4-0c88a9d0979d.png)
-![image](https://user-images.githubusercontent.com/57778547/132414299-1005eb10-dab1-4852-9c4a-d813239689cf.png![image](https://user-images.githubusercontent.com/57778547/132414324-7031906e-f9b8-498d-8317-067bf3717438.png)
+![image](https://user-images.githubusercontent.com/57778547/132414299-1005eb10-dab1-4852-9c4a-d813239689cf.png)
+![image](https://user-images.githubusercontent.com/57778547/132414324-7031906e-f9b8-498d-8317-067bf3717438.png)
 ![image](https://user-images.githubusercontent.com/57778547/132414383-837395c0-41fb-49b4-816e-3db51602355e.png)
 
 
